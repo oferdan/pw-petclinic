@@ -1,0 +1,1 @@
+Playwright with Spring PetClinic and Angular frontend.
